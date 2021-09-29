@@ -1,0 +1,14 @@
+{
+    "repository": {
+        "name": "appmaker-dashboard",
+        "branch": "dev",
+        "manifest": "\/dist\/data\/manifest.json",
+        "host": {
+            "git": "git@github.com:LouisOuellet\/"
+        }
+    },
+    "name": "appmaker-dashboard",
+    "status": false,
+    "build": 1,
+    "version": "21.09-dev"
+}
