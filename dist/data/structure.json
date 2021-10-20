@@ -1,0 +1,54 @@
+{
+    "dashboard": {
+        "id": {
+            "order": 1,
+            "type": "int(11)"
+        },
+        "1": "id",
+        "created": {
+            "order": 2,
+            "type": "datetime"
+        },
+        "2": "created",
+        "modified": {
+            "order": 3,
+            "type": "datetime"
+        },
+        "3": "modified",
+        "owner": {
+            "order": 4,
+            "type": "varchar(255)"
+        },
+        "4": "owner",
+        "updated_by": {
+            "order": 5,
+            "type": "varchar(255)"
+        },
+        "5": "updated_by",
+        "user": {
+            "order": 6,
+            "type": "varchar(255)"
+        },
+        "6": "user",
+        "box": {
+            "order": 7,
+            "type": "text"
+        },
+        "7": "box",
+        "full": {
+            "order": 8,
+            "type": "text"
+        },
+        "8": "full",
+        "left": {
+            "order": 9,
+            "type": "text"
+        },
+        "9": "left",
+        "right": {
+            "order": 10,
+            "type": "text"
+        },
+        "10": "right"
+    }
+}
