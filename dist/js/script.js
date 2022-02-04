@@ -1,7 +1,7 @@
-API.Plugins.dashboard = {
+Engine.Plugins.dashboard = {
 	init:function(){
-		API.GUI.Sidebar.Nav.add('Dashboard', 'main_navigation');
+		Engine.GUI.Sidebar.Nav.add('Dashboard', 'main_navigation');
 	}
 }
 
-API.Plugins.dashboard.init();
+Engine.Plugins.dashboard.init();
